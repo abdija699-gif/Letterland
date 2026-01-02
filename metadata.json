@@ -1,0 +1,7 @@
+{
+  "name": "LetterLand",
+  "description": "A magical, interactive world for toddlers and preschoolers to learn letters, phonics, and writing through fun tracing and games.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
